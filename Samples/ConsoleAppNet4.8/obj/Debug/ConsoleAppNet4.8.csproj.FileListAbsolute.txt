@@ -1,7 +1,7 @@
-C:\Users\shaneb\source\repos\Service-Registry\Samples\ConsoleAppNet4.8\obj\Debug\ConsoleAppNet4.8.csproj.AssemblyReference.cache
-C:\Users\shaneb\source\repos\Service-Registry\Samples\ConsoleAppNet4.8\obj\Debug\ConsoleAppNet4.8.csproj.CoreCompileInputs.cache
 C:\Users\shaneb\source\repos\Service-Registry\Samples\ConsoleAppNet4.8\bin\Debug\ConsoleApp3.exe.config
 C:\Users\shaneb\source\repos\Service-Registry\Samples\ConsoleAppNet4.8\bin\Debug\ConsoleApp3.exe
 C:\Users\shaneb\source\repos\Service-Registry\Samples\ConsoleAppNet4.8\bin\Debug\ConsoleApp3.pdb
+C:\Users\shaneb\source\repos\Service-Registry\Samples\ConsoleAppNet4.8\obj\Debug\ConsoleAppNet4.8.csproj.AssemblyReference.cache
+C:\Users\shaneb\source\repos\Service-Registry\Samples\ConsoleAppNet4.8\obj\Debug\ConsoleAppNet4.8.csproj.CoreCompileInputs.cache
 C:\Users\shaneb\source\repos\Service-Registry\Samples\ConsoleAppNet4.8\obj\Debug\ConsoleApp3.exe
 C:\Users\shaneb\source\repos\Service-Registry\Samples\ConsoleAppNet4.8\obj\Debug\ConsoleApp3.pdb

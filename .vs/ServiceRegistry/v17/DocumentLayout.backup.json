@@ -1,101 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\shaneb\\source\\repos\\Service-Registry\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{75C42385-B3E1-4F1E-84B8-20FA2B25D96E}|Samples\\ConsoleAppNet4.8\\ConsoleAppNet4.8.csproj|c:\\users\\shaneb\\source\\repos\\service-registry\\src\\servicelocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75C42385-B3E1-4F1E-84B8-20FA2B25D96E}|Samples\\ConsoleAppNet4.8\\ConsoleAppNet4.8.csproj|solutionrelative:src\\servicelocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75C42385-B3E1-4F1E-84B8-20FA2B25D96E}|Samples\\ConsoleAppNet4.8\\ConsoleAppNet4.8.csproj|C:\\Users\\shaneb\\source\\repos\\Service-Registry\\samples\\consoleappnet4.8\\classes\\registerunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75C42385-B3E1-4F1E-84B8-20FA2B25D96E}|Samples\\ConsoleAppNet4.8\\ConsoleAppNet4.8.csproj|solutionrelative:samples\\consoleappnet4.8\\classes\\registerunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75C42385-B3E1-4F1E-84B8-20FA2B25D96E}|Samples\\ConsoleAppNet4.8\\ConsoleAppNet4.8.csproj|C:\\Users\\shaneb\\source\\repos\\Service-Registry\\samples\\consoleappnet4.8\\classes\\exampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75C42385-B3E1-4F1E-84B8-20FA2B25D96E}|Samples\\ConsoleAppNet4.8\\ConsoleAppNet4.8.csproj|solutionrelative:samples\\consoleappnet4.8\\classes\\exampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75C42385-B3E1-4F1E-84B8-20FA2B25D96E}|Samples\\ConsoleAppNet4.8\\ConsoleAppNet4.8.csproj|C:\\Users\\shaneb\\source\\repos\\Service-Registry\\samples\\consoleappnet4.8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75C42385-B3E1-4F1E-84B8-20FA2B25D96E}|Samples\\ConsoleAppNet4.8\\ConsoleAppNet4.8.csproj|solutionrelative:samples\\consoleappnet4.8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shaneb\\source\\repos\\Service-Registry\\Samples\\ConsoleAppNet4.8\\Service\\ServiceLocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Samples\\ConsoleAppNet4.8\\Service\\ServiceLocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ServiceLocator.cs",
-              "DocumentMoniker": "C:\\Users\\shaneb\\source\\repos\\Service-Registry\\src\\ServiceLocator.cs",
-              "RelativeDocumentMoniker": "src\\ServiceLocator.cs",
-              "ToolTip": "C:\\Users\\shaneb\\source\\repos\\Service-Registry\\src\\ServiceLocator.cs",
-              "RelativeToolTip": "src\\ServiceLocator.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAswGEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T09:31:25.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ServiceLocator.cs",
-              "DocumentMoniker": "C:\\Users\\shaneb\\source\\repos\\Service-Registry\\Samples\\ConsoleAppNet4.8\\Service\\ServiceLocator.cs",
-              "RelativeDocumentMoniker": "Samples\\ConsoleAppNet4.8\\Service\\ServiceLocator.cs",
-              "ToolTip": "C:\\Users\\shaneb\\source\\repos\\Service-Registry\\Samples\\ConsoleAppNet4.8\\Service\\ServiceLocator.cs",
-              "RelativeToolTip": "Samples\\ConsoleAppNet4.8\\Service\\ServiceLocator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACABAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T09:31:04.039Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ExampleService.cs",
-              "DocumentMoniker": "C:\\Users\\shaneb\\source\\repos\\Service-Registry\\Samples\\ConsoleAppNet4.8\\Classes\\ExampleService.cs",
-              "RelativeDocumentMoniker": "Samples\\ConsoleAppNet4.8\\Classes\\ExampleService.cs",
-              "ToolTip": "C:\\Users\\shaneb\\source\\repos\\Service-Registry\\Samples\\ConsoleAppNet4.8\\Classes\\ExampleService.cs",
-              "RelativeToolTip": "Samples\\ConsoleAppNet4.8\\Classes\\ExampleService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T09:22:18.323Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegisterUnit.cs",
-              "DocumentMoniker": "C:\\Users\\shaneb\\source\\repos\\Service-Registry\\Samples\\ConsoleAppNet4.8\\Classes\\RegisterUnit.cs",
-              "RelativeDocumentMoniker": "Samples\\ConsoleAppNet4.8\\Classes\\RegisterUnit.cs",
-              "ToolTip": "C:\\Users\\shaneb\\source\\repos\\Service-Registry\\Samples\\ConsoleAppNet4.8\\Classes\\RegisterUnit.cs",
-              "RelativeToolTip": "Samples\\ConsoleAppNet4.8\\Classes\\RegisterUnit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T09:21:06.533Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\shaneb\\source\\repos\\Service-Registry\\Samples\\ConsoleAppNet4.8\\Program.cs",
-              "RelativeDocumentMoniker": "Samples\\ConsoleAppNet4.8\\Program.cs",
-              "ToolTip": "C:\\Users\\shaneb\\source\\repos\\Service-Registry\\Samples\\ConsoleAppNet4.8\\Program.cs",
-              "RelativeToolTip": "Samples\\ConsoleAppNet4.8\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T09:09:00.941Z"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

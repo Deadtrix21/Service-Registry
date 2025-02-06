@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "READ ME", "READ ME", "{8EC4
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service Registery Source", "Service Registery Source", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE1}") = "Service Registery Source", "Service Registery Source", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C1D}"
 	ProjectSection(SolutionItems) = preProject
 		src/ServiceLocator.cs = src/ServiceLocator.cs
 	EndProjectSection
