@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35617.110
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppNet4.8", "Samples\ConsoleAppNet4.8\ConsoleAppNet4.8.csproj", "{75C42385-B3E1-4F1E-84B8-20FA2B25D96E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "READ ME", "READ ME", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service Registery Source", "Service Registery Source", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		src/ServiceLocator.cs = src/ServiceLocator.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75C42385-B3E1-4F1E-84B8-20FA2B25D96E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C42385-B3E1-4F1E-84B8-20FA2B25D96E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C42385-B3E1-4F1E-84B8-20FA2B25D96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C42385-B3E1-4F1E-84B8-20FA2B25D96E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3E5473E-F90E-400D-9A29-7669D1B1A14A}
+	EndGlobalSection
+EndGlobal
